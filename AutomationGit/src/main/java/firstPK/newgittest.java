@@ -6,4 +6,8 @@ public class newgittest {
   System.out.println("test");
  }
 
+  
+  public static void main(String pp[]){
+    
+  }
 }
